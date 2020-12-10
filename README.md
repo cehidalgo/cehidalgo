@@ -1,4 +1,6 @@
-My name is Carlos and I would like to share my experiences with you.
+## Hi there :wave:
+
+My name is Carlos, 24-years old and a full-stack software developer with 4 years of experience. I would like to share my experiences with you.
 
 ## About 
 
