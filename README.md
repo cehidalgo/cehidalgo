@@ -30,6 +30,6 @@ I always try to improve my skills doing courses and resolving problems. At the m
 
 ### Projects
 
-I'm looking for ideas to actually implement a new project soon. Might be starting it
+I'm looking for ideas to actually implement a new project soon. Might be starting it soon.
 
 # :rocket: Thank you for the visit and keep learning! :rocket:
