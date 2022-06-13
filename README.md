@@ -4,7 +4,7 @@ My name is Carlos, 24-years old and a full-stack software developer with 4 years
 
 ## About 
 
-[![GitHub followers](https://img.shields.io/github/followers/cehidalgo?label=Followers&style=social)](https://github.com/cehidalgo?tab=followers) | [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) | [![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)](https://www.typescriptlang.org/) | [![Node.JS](https://aleen42.github.io/badges/src/node.svg)](https://nodejs.dev/learn) | I :heart: [![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)](https://nodejs.dev/learn)
+[![GitHub followers](https://img.shields.io/github/followers/cehidalgo?label=Followers&style=social)](https://github.com/cehidalgo?tab=followers) | [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) | [![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)](https://www.typescriptlang.org/) | [![Node.JS](https://aleen42.github.io/badges/src/node.svg)](https://nodejs.dev/learn) | I :heart: [![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)](https://nodejs.dev/learn) | [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
 
 ### Who I am and where I am right now
 
